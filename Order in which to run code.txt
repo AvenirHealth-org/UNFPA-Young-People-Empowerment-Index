@@ -1,0 +1,16 @@
+Order in which to run code
+
+Run prep code: 
+	UNFPA YPEI Population Code (can skip and use input data: WPP2019 Data for YPEI.csv)
+	UNFPA YPEI DHS Microdata Analysis (can skip and use input data: fert_know_m.csv, fert_know_w.csv, know_ltm_stm_m.csv, know_ltm_stm_w.csv)
+	UNFPA YPEI VWS Microdata Analysis (can skip and use input data: Vote_National.csv, BetterOff.csv, humanrights.csv, active_member.csv, pol_part.csv)
+
+Run code to create master input file:
+	UNFPA YPEI Input Data Code (can skip and use input data: Full Input Dataset 111221.csv)
+
+Run code to create index:
+	UNFPA YPEI Index Creation Code
+
+Run code to create graphics:
+	UNFPA YPEI Regional Comparison Graphics
+	UNFPA YPEI Mapping Results

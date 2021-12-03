@@ -1,0 +1,238 @@
+Country,ISONum,ISOAlph,Subregion,SDG,Geographic,UNFPAGroup,UNFPATotal,Global
+Afghanistan,4,AFG,Southern Asia,Central and Southern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Albania,8,ALB,Southern Europe,Europe and Northern America,Europe,Eastern Europe & Central Asia,UNFPA Country,Globe
+Algeria,12,DZA,Northern Africa,Northern Africa and Western Asia,Africa,Arab States,UNFPA Country,Globe
+American Samoa,16,ASM,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,Asia & the Pacific,UNFPA Country,Globe
+Andorra,20,AND,Southern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Angola,24,AGO,Middle Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Antigua and Barbuda,28,ATG,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Azerbaijan,31,AZE,Western Asia,Northern Africa and Western Asia,Asia,Eastern Europe & Central Asia,UNFPA Country,Globe
+Argentina,32,ARG,South America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Australia,36,AUS,Australia/New Zealand,Australia/New Zealand,Oceania,Non-UNFPA Country,Non-UNFPA Country,Globe
+Austria,40,AUT,Western Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Bahamas,44,BHS,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Bahrain,48,BHR,Western Asia,Northern Africa and Western Asia,Asia,Arab States,UNFPA Country,Globe
+Bangladesh,50,BGD,Southern Asia,Central and Southern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Armenia,51,ARM,Western Asia,Northern Africa and Western Asia,Asia,Eastern Europe & Central Asia,UNFPA Country,Globe
+Barbados,52,BRB,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Belgium,56,BEL,Western Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Bermuda,60,BMU,Northern America,Europe and Northern America,Northern America,Latin America & the Caribbean,UNFPA Country,Globe
+Bhutan,64,BTN,Southern Asia,Central and Southern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Bolivia (Plurinational State of),68,BOL,South America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Bosnia and Herzegovina,70,BIH,Southern Europe,Europe and Northern America,Europe,Eastern Europe & Central Asia,UNFPA Country,Globe
+Botswana,72,BWA,Southern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Brazil,76,BRA,South America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Belize,84,BLZ,Central America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Solomon Islands,90,SLB,Melanesia,Oceania (excluding Australia and New Zealand),Oceania,Asia & the Pacific,UNFPA Country,Globe
+British Virgin Islands,92,VGB,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Brunei Darussalam,96,BRN,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,Non-UNFPA Country,Non-UNFPA Country,Globe
+Bulgaria,100,BGR,Eastern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Myanmar,104,MMR,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Burundi,108,BDI,Eastern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Belarus,112,BLR,Eastern Europe,Europe and Northern America,Europe,Eastern Europe & Central Asia,UNFPA Country,Globe
+Cambodia,116,KHM,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Cameroon,120,CMR,Middle Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Canada,124,CAN,Northern America,Europe and Northern America,Northern America,Non-UNFPA Country,Non-UNFPA Country,Globe
+Cabo Verde,132,CPV,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Cayman Islands,136,CYM,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Central African Republic,140,CAF,Middle Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Sri Lanka,144,LKA,Southern Asia,Central and Southern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Chad,148,TCD,Middle Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Chile,152,CHL,South America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+China,156,CHN,Eastern Asia,Eastern and South-Eastern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+"China, Taiwan Province of China",158,TWN,Eastern Asia,Eastern and South-Eastern Asia,Asia,Non-UNFPA Country,Non-UNFPA Country,Globe
+Colombia,170,COL,South America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Comoros,174,COM,Eastern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Mayotte,175,MYT,Eastern Africa,Sub-Saharan Africa,Africa,Non-UNFPA Country,Non-UNFPA Country,Globe
+Congo,178,COG,Middle Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Democratic Republic of the Congo,180,COD,Middle Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Cook Islands,184,COK,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,Asia & the Pacific,UNFPA Country,Globe
+Costa Rica,188,CRI,Central America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Croatia,191,HRV,Southern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Cuba,192,CUB,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Cyprus,196,CYP,Western Asia,Northern Africa and Western Asia,Asia,Non-UNFPA Country,Non-UNFPA Country,Globe
+Czechia,203,CZE,Eastern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Benin,204,BEN,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Denmark,208,DNK,Northern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Dominica,212,DMA,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Dominican Republic,214,DOM,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Ecuador,218,ECU,South America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+El Salvador,222,SLV,Central America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Equatorial Guinea,226,GNQ,Middle Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Ethiopia,231,ETH,Eastern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Eritrea,232,ERI,Eastern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Estonia,233,EST,Northern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Faroe Islands,234,FRO,Northern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Falkland Islands (Malvinas),238,FLK,South America,Latin America and the Caribbean,Latin America and the Caribbean,Non-UNFPA Country,Non-UNFPA Country,Globe
+Fiji,242,FJI,Melanesia,Oceania (excluding Australia and New Zealand),Oceania,Asia & the Pacific,UNFPA Country,Globe
+Finland,246,FIN,Northern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+France,250,FRA,Western Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+French Guiana,254,GUF,South America,Latin America and the Caribbean,Latin America and the Caribbean,Non-UNFPA Country,Non-UNFPA Country,Globe
+French Polynesia,258,PYF,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,Non-UNFPA Country,Non-UNFPA Country,Globe
+Djibouti,262,DJI,Eastern Africa,Sub-Saharan Africa,Africa,Arab States,UNFPA Country,Globe
+Gabon,266,GAB,Middle Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Georgia,268,GEO,Western Asia,Northern Africa and Western Asia,Asia,Eastern Europe & Central Asia,UNFPA Country,Globe
+Gambia,270,GMB,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+State of Palestine,275,PSE,Western Asia,Northern Africa and Western Asia,Asia,Arab States,UNFPA Country,Globe
+Germany,276,DEU,Western Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Ghana,288,GHA,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Gibraltar,292,GIB,Southern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Kiribati,296,KIR,Micronesia,Oceania (excluding Australia and New Zealand),Oceania,Asia & the Pacific,UNFPA Country,Globe
+Greece,300,GRC,Southern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Greenland,304,GRL,Northern America,Europe and Northern America,Northern America,Non-UNFPA Country,Non-UNFPA Country,Globe
+Grenada,308,GRD,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Guadeloupe,312,GLP,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Non-UNFPA Country,Non-UNFPA Country,Globe
+Guam,316,GUM,Micronesia,Oceania (excluding Australia and New Zealand),Oceania,Non-UNFPA Country,Non-UNFPA Country,Globe
+Guatemala,320,GTM,Central America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Guinea,324,GIN,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Guyana,328,GUY,South America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Haiti,332,HTI,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Holy See,336,VAT,Southern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Honduras,340,HND,Central America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+"China, Hong Kong SAR",344,HKG,Eastern Asia,Eastern and South-Eastern Asia,Asia,Non-UNFPA Country,Non-UNFPA Country,Globe
+Hungary,348,HUN,Eastern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Iceland,352,ISL,Northern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+India,356,IND,Southern Asia,Central and Southern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Indonesia,360,IDN,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Iran (Islamic Republic of),364,IRN,Southern Asia,Central and Southern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Iraq,368,IRQ,Western Asia,Northern Africa and Western Asia,Asia,Arab States,UNFPA Country,Globe
+Ireland,372,IRL,Northern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Israel,376,ISR,Western Asia,Northern Africa and Western Asia,Asia,Non-UNFPA Country,Non-UNFPA Country,Globe
+Italy,380,ITA,Southern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Côte d'Ivoire,384,CIV,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Jamaica,388,JAM,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Japan,392,JPN,Eastern Asia,Eastern and South-Eastern Asia,Asia,Non-UNFPA Country,Non-UNFPA Country,Globe
+Kazakhstan,398,KAZ,Central Asia,Central and Southern Asia,Asia,Eastern Europe & Central Asia,UNFPA Country,Globe
+Jordan,400,JOR,Western Asia,Northern Africa and Western Asia,Asia,Arab States,UNFPA Country,Globe
+Kenya,404,KEN,Eastern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Dem. People's Republic of Korea,408,PRK,Eastern Asia,Eastern and South-Eastern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Republic of Korea,410,KOR,Eastern Asia,Eastern and South-Eastern Asia,Asia,Non-UNFPA Country,Non-UNFPA Country,Globe
+Kuwait,414,KWT,Western Asia,Northern Africa and Western Asia,Asia,Arab States,UNFPA Country,Globe
+Kyrgyzstan,417,KGZ,Central Asia,Central and Southern Asia,Asia,Eastern Europe & Central Asia,UNFPA Country,Globe
+Lao People's Democratic Republic,418,LAO,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Lebanon,422,LBN,Western Asia,Northern Africa and Western Asia,Asia,Arab States,UNFPA Country,Globe
+Lesotho,426,LSO,Southern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Latvia,428,LVA,Northern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Liberia,430,LBR,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Libya,434,LBY,Northern Africa,Northern Africa and Western Asia,Africa,Arab States,UNFPA Country,Globe
+Liechtenstein,438,LIE,Western Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Lithuania,440,LTU,Northern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Luxembourg,442,LUX,Western Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+"China, Macao SAR",446,MAC,Eastern Asia,Eastern and South-Eastern Asia,Asia,Non-UNFPA Country,Non-UNFPA Country,Globe
+Madagascar,450,MDG,Eastern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Malawi,454,MWI,Eastern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Malaysia,458,MYS,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Maldives,462,MDV,Southern Asia,Central and Southern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Mali,466,MLI,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Malta,470,MLT,Southern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Martinique,474,MTQ,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Non-UNFPA Country,Non-UNFPA Country,Globe
+Mauritania,478,MRT,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Mauritius,480,MUS,Eastern Africa,Sub-Saharan Africa,Africa,Non-UNFPA Country,Non-UNFPA Country,Globe
+Mexico,484,MEX,Central America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Monaco,492,MCO,Western Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Mongolia,496,MNG,Eastern Asia,Eastern and South-Eastern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Republic of Moldova,498,MDA,Eastern Europe,Europe and Northern America,Europe,Eastern Europe & Central Asia,UNFPA Country,Globe
+Montenegro,499,MNE,Southern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Montserrat,500,MSR,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Morocco,504,MAR,Northern Africa,Northern Africa and Western Asia,Africa,Arab States,UNFPA Country,Globe
+Mozambique,508,MOZ,Eastern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Oman,512,OMN,Western Asia,Northern Africa and Western Asia,Asia,Arab States,UNFPA Country,Globe
+Namibia,516,NAM,Southern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Nauru,520,NRU,Micronesia,Oceania (excluding Australia and New Zealand),Oceania,Asia & the Pacific,UNFPA Country,Globe
+Nepal,524,NPL,Southern Asia,Central and Southern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Netherlands,528,NLD,Western Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Netherland Antilles,530,,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Curaçao,531,CUW,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Non-UNFPA Country,Non-UNFPA Country,Globe
+Aruba,533,ABW,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Sint Maarten (Dutch part),534,SXM,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Non-UNFPA Country,Non-UNFPA Country,Globe
+"Bonaire, Sint Eustatius and Saba",535,BES,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Non-UNFPA Country,Non-UNFPA Country,Globe
+New Caledonia,540,NCL,Melanesia,Oceania (excluding Australia and New Zealand),Oceania,Non-UNFPA Country,Non-UNFPA Country,Globe
+Vanuatu,548,VUT,Melanesia,Oceania (excluding Australia and New Zealand),Oceania,Asia & the Pacific,UNFPA Country,Globe
+New Zealand,554,NZL,Australia/New Zealand,Australia/New Zealand,Oceania,Non-UNFPA Country,Non-UNFPA Country,Globe
+Nicaragua,558,NIC,Central America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Niger,562,NER,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Nigeria,566,NGA,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Niue,570,NIU,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,Asia & the Pacific,UNFPA Country,Globe
+Norway,578,NOR,Northern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Northern Mariana Islands,580,MNP,Micronesia,Oceania (excluding Australia and New Zealand),Oceania,Non-UNFPA Country,Non-UNFPA Country,Globe
+Micronesia (Fed. States of),583,FSM,Micronesia,Oceania (excluding Australia and New Zealand),Oceania,Asia & the Pacific,UNFPA Country,Globe
+Marshall Islands,584,MHL,Micronesia,Oceania (excluding Australia and New Zealand),Oceania,Asia & the Pacific,UNFPA Country,Globe
+Palau,585,PLW,Micronesia,Oceania (excluding Australia and New Zealand),Oceania,Asia & the Pacific,UNFPA Country,Globe
+Pakistan,586,PAK,Southern Asia,Central and Southern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Panama,591,PAN,Central America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Papua New Guinea,598,PNG,Melanesia,Oceania (excluding Australia and New Zealand),Oceania,Asia & the Pacific,UNFPA Country,Globe
+Paraguay,600,PRY,South America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Peru,604,PER,South America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Philippines,608,PHL,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Poland,616,POL,Eastern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Portugal,620,PRT,Southern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Guinea-Bissau,624,GNB,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Timor-Leste,626,TLS,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Puerto Rico,630,PRI,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Non-UNFPA Country,Non-UNFPA Country,Globe
+Qatar,634,QAT,Western Asia,Northern Africa and Western Asia,Asia,Arab States,UNFPA Country,Globe
+Réunion,638,REU,Eastern Africa,Sub-Saharan Africa,Africa,Non-UNFPA Country,Non-UNFPA Country,Globe
+Romania,642,ROU,Eastern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Russian Federation,643,RUS,Eastern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Rwanda,646,RWA,Eastern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Saint Barthélemy,652,BLM,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Non-UNFPA Country,Non-UNFPA Country,Globe
+Saint Helena,654,SHN,Western Africa,Sub-Saharan Africa,Africa,Non-UNFPA Country,Non-UNFPA Country,Globe
+Saint Kitts and Nevis,659,KNA,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Anguilla,660,AIA,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Saint Lucia,662,LCA,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Saint Martin (French part),663,MAF,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Non-UNFPA Country,Non-UNFPA Country,Globe
+Saint Pierre and Miquelon,666,SPM,Northern America,Europe and Northern America,Northern America,Non-UNFPA Country,Non-UNFPA Country,Globe
+Saint Vincent and the Grenadines,670,VCT,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+San Marino,674,SMR,Southern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Sao Tome and Principe,678,STP,Middle Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Saudi Arabia,682,SAU,Western Asia,Northern Africa and Western Asia,Asia,Arab States,UNFPA Country,Globe
+Senegal,686,SEN,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Serbia,688,SRB,Southern Europe,Europe and Northern America,Europe,Eastern Europe & Central Asia,UNFPA Country,Globe
+Seychelles,690,SYC,Eastern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Sierra Leone,694,SLE,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Singapore,702,SGP,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,Non-UNFPA Country,Non-UNFPA Country,Globe
+Slovakia,703,SVK,Eastern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Viet Nam,704,VNM,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Slovenia,705,SVN,Southern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Somalia,706,SOM,Eastern Africa,Sub-Saharan Africa,Africa,Arab States,UNFPA Country,Globe
+South Africa,710,ZAF,Southern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Zimbabwe,716,ZWE,Eastern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Spain,724,ESP,Southern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+South Sudan,728,SSD,Eastern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Sudan,729,SDN,Northern Africa,Northern Africa and Western Asia,Africa,Arab States,UNFPA Country,Globe
+Western Sahara,732,ESH,Northern Africa,Northern Africa and Western Asia,Africa,Non-UNFPA Country,Non-UNFPA Country,Globe
+Suriname,740,SUR,South America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Eswatini,748,SWZ,Southern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Sweden,752,SWE,Northern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Switzerland,756,CHE,Western Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Syrian Arab Republic,760,SYR,Western Asia,Northern Africa and Western Asia,Asia,Arab States,UNFPA Country,Globe
+Tajikistan,762,TJK,Central Asia,Central and Southern Asia,Asia,Eastern Europe & Central Asia,UNFPA Country,Globe
+Thailand,764,THA,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,Asia & the Pacific,UNFPA Country,Globe
+Togo,768,TGO,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Tokelau,772,TKL,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,Asia & the Pacific,UNFPA Country,Globe
+Tonga,776,TON,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,Asia & the Pacific,UNFPA Country,Globe
+Trinidad and Tobago,780,TTO,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+United Arab Emirates,784,ARE,Western Asia,Northern Africa and Western Asia,Asia,Arab States,UNFPA Country,Globe
+Tunisia,788,TUN,Northern Africa,Northern Africa and Western Asia,Africa,Arab States,UNFPA Country,Globe
+Turkey,792,TUR,Western Asia,Northern Africa and Western Asia,Asia,Eastern Europe & Central Asia,UNFPA Country,Globe
+Turkmenistan,795,TKM,Central Asia,Central and Southern Asia,Asia,Eastern Europe & Central Asia,UNFPA Country,Globe
+Turks and Caicos Islands,796,TCA,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Tuvalu,798,TUV,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,Asia & the Pacific,UNFPA Country,Globe
+Uganda,800,UGA,Eastern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Ukraine,804,UKR,Eastern Europe,Europe and Northern America,Europe,Eastern Europe & Central Asia,UNFPA Country,Globe
+North Macedonia,807,MKD,Southern Europe,Europe and Northern America,Europe,Eastern Europe & Central Asia,UNFPA Country,Globe
+Egypt,818,EGY,Northern Africa,Northern Africa and Western Asia,Africa,Arab States,UNFPA Country,Globe
+United Kingdom,826,GBR,Northern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Channel Islands,830,CHI,Northern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+Isle of Man,833,IMN,Northern Europe,Europe and Northern America,Europe,Non-UNFPA Country,Non-UNFPA Country,Globe
+United Republic of Tanzania,834,TZA,Eastern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+United States of America,840,USA,Northern America,Europe and Northern America,Northern America,Non-UNFPA Country,Non-UNFPA Country,Globe
+United States Virgin Islands,850,VIR,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,Non-UNFPA Country,Non-UNFPA Country,Globe
+Burkina Faso,854,BFA,Western Africa,Sub-Saharan Africa,Africa,West & Central Africa,UNFPA Country,Globe
+Uruguay,858,URY,South America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Uzbekistan,860,UZB,Central Asia,Central and Southern Asia,Asia,Eastern Europe & Central Asia,UNFPA Country,Globe
+Venezuela (Bolivarian Republic of),862,VEN,South America,Latin America and the Caribbean,Latin America and the Caribbean,Latin America & the Caribbean,UNFPA Country,Globe
+Wallis and Futuna Islands,876,WLF,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,Non-UNFPA Country,Non-UNFPA Country,Globe
+Samoa,882,WSM,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,Non-UNFPA Country,Non-UNFPA Country,Globe
+Yemen,887,YEM,Western Asia,Northern Africa and Western Asia,Asia,Arab States,UNFPA Country,Globe
+Zambia,894,ZMB,Eastern Africa,Sub-Saharan Africa,Africa,East & Southern Africa,UNFPA Country,Globe
+Polynesia,957,,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,Non-UNFPA Country,Non-UNFPA Country,Globe
