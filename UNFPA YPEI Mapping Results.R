@@ -22,7 +22,7 @@ setwd("C:/Users/KristinBietsch/files/UNFPA/Code for GitHub/Input Data")
 world <- ne_countries(scale = "medium", returnclass = "sf")
 class(world)
 
-data_w <- read.csv("YEI_IndexCountryResults PopWeight 111221.csv") %>%
+data_w <- read.csv("YEI_IndexCountryResults PopWeight 120721.csv") %>%
   rename(iso_n3=ISONum)
 
 # If you want to display all countries
@@ -60,7 +60,7 @@ ggplot(data = world_full) +
         panel.grid = element_blank())
 
 # If you would like to export these results, uncomment the line below
-# ggsave("YEI_Map_Index_111221.jpg",  height=8, width=15, units = "in")
+ggsave("YEI_Map_Index_120721.jpg",  height=8, width=15, units = "in")
 
 # Economic Domain
 ggplot(data = world_full) +
@@ -80,7 +80,7 @@ ggplot(data = world_full) +
         panel.grid = element_blank())
 
 # If you would like to export these results, uncomment the line below
-# ggsave("YEI_Map_Economics_111221.jpg",  height=8, width=15, units = "in")
+ggsave("YEI_Map_Economics_120721.jpg",  height=8, width=15, units = "in")
 
 # Education Domain
 ggplot(data = world_full) +
@@ -100,7 +100,7 @@ ggplot(data = world_full) +
         panel.grid = element_blank())
 
 # If you would like to export these results, uncomment the line below
-# ggsave("YEI_Map_Education_111221.jpg",  height=8, width=15, units = "in")
+ggsave("YEI_Map_Education_120721.jpg",  height=8, width=15, units = "in")
 
 # Gender Domain
 ggplot(data = world_full) +
@@ -120,7 +120,7 @@ ggplot(data = world_full) +
         panel.grid = element_blank())
 
 # If you would like to export these results, uncomment the line below
-# ggsave("YEI_Map_Gender_111221.jpg",  height=8, width=15, units = "in")
+ggsave("YEI_Map_Gender_120721.jpg",  height=8, width=15, units = "in")
 
 # Politics Domain
 ggplot(data = world_full) +
@@ -140,7 +140,7 @@ ggplot(data = world_full) +
         panel.grid = element_blank())
 
 # If you would like to export these results, uncomment the line below
-# ggsave("YEI_Map_Politics_111221.jpg",  height=8, width=15, units = "in")
+ggsave("YEI_Map_Politics_120721.jpg",  height=8, width=15, units = "in")
 
 # Safety Domain
 ggplot(data = world_full) +
@@ -160,7 +160,7 @@ ggplot(data = world_full) +
         panel.grid = element_blank())
 
 # If you would like to export these results, uncomment the line below
-# ggsave("YEI_Map_Safety_111221.jpg",  height=8, width=15, units = "in")
+ggsave("YEI_Map_Safety_120721.jpg",  height=8, width=15, units = "in")
 
 # SRH Domain
 ggplot(data = world_full) +
@@ -179,7 +179,7 @@ ggplot(data = world_full) +
         axis.ticks = element_blank(),
         panel.grid = element_blank())
 # If you would like to export these results, uncomment the line below
-# ggsave("YEI_Map_SRH_111221.jpg",  height=8, width=15, units = "in")
+ ggsave("YEI_Map_SRH_120721.jpg",  height=8, width=15, units = "in")
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 # Creating world maps for UNFPA Countries the index and six domains
@@ -202,7 +202,7 @@ ggplot(data = world_unfpa_full) +
         panel.grid = element_blank())
 
 # If you would like to export these results, uncomment the line below
-# ggsave("YEI_UNFPAMap_Index_111221.jpg",  height=8, width=15, units = "in")
+ ggsave("YEI_UNFPAMap_Index_120721.jpg",  height=8, width=15, units = "in")
 
 # Economic Domain
 ggplot(data = world_unfpa_full) +
@@ -222,7 +222,7 @@ ggplot(data = world_unfpa_full) +
         panel.grid = element_blank())
 
 # If you would like to export these results, uncomment the line below
-# ggsave("YEI_UNFPAMap_Economics_111221.jpg",  height=8, width=15, units = "in")
+ ggsave("YEI_UNFPAMap_Economics_120721.jpg",  height=8, width=15, units = "in")
 
 # Education Domain
 ggplot(data = world_unfpa_full) +
@@ -242,7 +242,7 @@ ggplot(data = world_unfpa_full) +
         panel.grid = element_blank())
 
 # If you would like to export these results, uncomment the line below
-# ggsave("YEI_UNFPAMap_Education_111221.jpg",  height=8, width=15, units = "in")
+ggsave("YEI_UNFPAMap_Education_120721.jpg",  height=8, width=15, units = "in")
 
 # Gender Domain
 ggplot(data = world_unfpa_full) +
@@ -262,7 +262,7 @@ ggplot(data = world_unfpa_full) +
         panel.grid = element_blank())
 
 # If you would like to export these results, uncomment the line below
-# ggsave("YEI_UNFPAMap_Gender_111221.jpg",  height=8, width=15, units = "in")
+ggsave("YEI_UNFPAMap_Gender_120721.jpg",  height=8, width=15, units = "in")
 
 # Politics Domain
 ggplot(data = world_unfpa_full) +
@@ -282,7 +282,7 @@ ggplot(data = world_unfpa_full) +
         panel.grid = element_blank())
 
 # If you would like to export these results, uncomment the line below
-# ggsave("YEI_UNFPAMap_Politics_111221.jpg",  height=8, width=15, units = "in")
+ggsave("YEI_UNFPAMap_Politics_120721.jpg",  height=8, width=15, units = "in")
 
 # Safety Domain
 ggplot(data = world_unfpa_full) +
@@ -302,7 +302,7 @@ ggplot(data = world_unfpa_full) +
         panel.grid = element_blank())
 
 # If you would like to export these results, uncomment the line below
-# ggsave("YEI_UNFPAMap_Safety_111221.jpg",  height=8, width=15, units = "in")
+ggsave("YEI_UNFPAMap_Safety_120721.jpg",  height=8, width=15, units = "in")
 
 # SRH Domain
 ggplot(data = world_unfpa_full) +
@@ -322,7 +322,7 @@ ggplot(data = world_unfpa_full) +
         panel.grid = element_blank())
 
 # If you would like to export these results, uncomment the line below
-# ggsave("YEI_UNFPAMap_SRH_111221.jpg",  height=8, width=15, units = "in")
+ggsave("YEI_UNFPAMap_SRH_120721.jpg",  height=8, width=15, units = "in")
 
 
 

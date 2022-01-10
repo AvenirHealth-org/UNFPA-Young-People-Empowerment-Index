@@ -17,9 +17,9 @@ library("ggradar")
 # Set the working directory where input files are stored and where you want results to be saved
 setwd("C:/Users/KristinBietsch/files/UNFPA/Code for GitHub/Input Data")
 
-regional <- read.csv("YEI Regional PopRepresented 111221.csv")
+regional <- read.csv("YEI Regional PopRepresented 120721.csv")
 
-domains <- read.csv("UNFPA Youth Index Scales and Weights 111221.csv") %>% select(Domain, Subdomain, Indicator)
+domains <- read.csv("UNFPA Youth Index Scales and Weights 120721.csv") %>% select(Domain, Subdomain, Indicator)
 
 regional_long <- regional %>% gather(Indicator, Value, Account_Ratio:YouthPolicy_Num) %>%
   mutate(Value = replace_na(Value, 0)) %>%

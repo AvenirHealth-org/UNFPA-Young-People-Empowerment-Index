@@ -21,7 +21,7 @@ setwd("C:/Users/KristinBietsch/files/UNFPA/Code for GitHub/Input Data")
 
 # This file is very important, it lists all the indicators, the min and max for scaling,
 # the weights of the indicator within domain/subdomain, and the population used for weighting
-scales <- read.csv("UNFPA Youth Index Scales and Weights 111221.csv")
+scales <- read.csv("UNFPA Youth Index Scales and Weights 120721.csv")
 
 # This file lists all countries and their UNFPA regions
 countryiso <- read.csv("Country Regions Large.csv") 
@@ -455,13 +455,13 @@ domain_regions_total <- bind_rows(domain_global, domain_UNFPATotal, domain_UNFPA
 
 
 # If you would like to export these results, uncomment the line below
-write.csv(domain_regions_total, "YEI Regional Results Weighted 111221.csv", row.names = F, na="")
+write.csv(domain_regions_total, "YEI Regional Results Weighted 120721.csv", row.names = F, na="")
 
 # Combine information on the population represented for each region
 pop_regions_total <- bind_rows(Global_Pop_W_data, UNFPATotal_Pop_W_data, UNFPAGroup_Pop_W_data, regional_Pop_W_data )
 
 # If you would like to export these results, uncomment the line below
-#write.csv(pop_regions_total, "YEI Regional PopRepresented 111221.csv", row.names = F, na="")
+write.csv(pop_regions_total, "YEI Regional PopRepresented 120721.csv", row.names = F, na="")
 
 #################################################################################
 #################################################################################
@@ -502,7 +502,7 @@ indicator_N <- analysis_data %>%
   summarise(N=sum(n))
 
 # If you would like to export these results, uncomment the line below
-#write.csv(indicator_N, "YEI Number of Countries per Indicator 111221.csv", row.names = F, na="")
+write.csv(indicator_N, "YEI Number of Countries per Indicator 120721.csv", row.names = F, na="")
 
 
 # The number of indicators per country
@@ -560,7 +560,7 @@ domain_index_data <- scale_data %>%
          SRH_Resource, Indicator_N)
 
 # If you would like to export these results, uncomment the line below
-#write.csv(domain_index_data, "YEI_IndexCountryResults PopWeight 111221.csv", row.names = F, na="")
+write.csv(domain_index_data, "YEI_IndexCountryResults PopWeight 120721.csv", row.names = F, na="")
 
 #################################################################################
 #################################################################################
@@ -580,7 +580,7 @@ scale_results_education <- scale_data %>% filter(Domain=="Education") %>%
          Education_Achievement,    Education)   
 
 # If you would like to export these results, uncomment the line below
-#write.csv(scale_results_education, "YEI Education Results PopWeight 111221.csv", row.names = F, na="")
+write.csv(scale_results_education, "YEI Education Results PopWeight 120721.csv", row.names = F, na="")
 
 scale_results_economics <- scale_data %>% filter(Domain=="Economic Empowerment" ) %>%
   mutate(Domain="Economic_Empowerment") %>%
@@ -598,7 +598,7 @@ scale_results_economics <- scale_data %>% filter(Domain=="Economic Empowerment" 
          Economics_Achievement,    Economics)   
 
 # If you would like to export these results, uncomment the line below
-#write.csv(scale_results_economics, "YEI Economics Results PopWeight 111221.csv", row.names = F, na="")
+write.csv(scale_results_economics, "YEI Economics Results PopWeight 120721.csv", row.names = F, na="")
 
 scale_results_gender <- scale_data %>% filter(Domain=="Gender and Autonomy"  ) %>%
   mutate(Domain="Gender_and_Autonomy" ) %>%
@@ -616,7 +616,7 @@ scale_results_gender <- scale_data %>% filter(Domain=="Gender and Autonomy"  ) %
          Gender_Achievement,    Gender)   
 
 # If you would like to export these results, uncomment the line below
-#write.csv(scale_results_gender, "YEI Gender Results PopWeight 111221.csv", row.names = F, na="")
+write.csv(scale_results_gender, "YEI Gender Results PopWeight 120721.csv", row.names = F, na="")
 
 scale_results_safety <- scale_data %>% filter(Domain=="Safety and Security"  ) %>%
   mutate(Domain="Safety_and_Security" ) %>%
@@ -636,7 +636,7 @@ scale_results_safety <- scale_data %>% filter(Domain=="Safety and Security"  ) %
          Safety_Achievement,    Safety)   
 
 # If you would like to export these results, uncomment the line below
-#write.csv(scale_results_safety, "YEI Safety Results PopWeight 111221.csv", row.names = F, na="")
+write.csv(scale_results_safety, "YEI Safety Results PopWeight 120721.csv", row.names = F, na="")
 
 
 scale_results_SRH <- scale_data %>% filter(Domain=="SRH Empowerment"  ) %>%
@@ -665,7 +665,7 @@ scale_results_SRH <- scale_data %>% filter(Domain=="SRH Empowerment"  ) %>%
          SRH_Achievement,
          SRH)       
 # If you would like to export these results, uncomment the line below
-#write.csv(scale_results_SRH, "YEI SRH Results PopWeight 111221.csv", row.names = F, na="")
+write.csv(scale_results_SRH, "YEI SRH Results PopWeight 120721.csv", row.names = F, na="")
 
 
 scale_results_politics <- scale_data %>% filter(Domain== "Youth Policy and Political Participation"  ) %>%
@@ -686,6 +686,6 @@ scale_results_politics <- scale_data %>% filter(Domain== "Youth Policy and Polit
          Politics)       
 
 # If you would like to export these results, uncomment the line below
-#write.csv(scale_results_politics, "YEI Politics Results PopWeight 111221.csv", row.names = F, na="")
+write.csv(scale_results_politics, "YEI Politics Results PopWeight 120721.csv", row.names = F, na="")
 
 
