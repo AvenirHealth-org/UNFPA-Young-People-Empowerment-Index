@@ -1,0 +1,41 @@
+Domain,Subdomain,Definition,Indicator,Missing,Min,Max,SubWeight,DomainWeight,Comments,Population
+SRH Empowerment,Resource,"Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 1: Maternity Care (%)",SH_LGR_ACSRHES1,Regional,0,100,0.25,0.333333333,,One
+SRH Empowerment,Resource,"Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 2: Contraceptive and Family Planning (%)",SH_LGR_ACSRHES2,Regional,0,100,0.25,0.333333333,,One
+SRH Empowerment,Resource,"Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 4: HIV and HPV (%)",SH_LGR_ACSRHES4,Regional,0,100,0.25,0.333333333,,One
+SRH Empowerment,Resource,Extent to which service providers discriminate against youth?,ProviderDisc,Regional,0,100,0.25,0.333333333,"Already inverted, higher score means less discrimination",One
+SRH Empowerment,Agency,Percentage of women 15-24 years old who correctly identify both ways of preventing the sexual transmission of HIV and reject major misconceptions about HIV transmission,HIVKnow_w_1524,Regional,0,100,0.125,0.333333333,,Women1524
+SRH Empowerment,Agency,Percentage of men 15-24 years old who correctly identify both ways of preventing the sexual transmission of HIV and reject major misconceptions about HIV transmission,HIVKnow_m_1524,Regional,0,100,0.125,0.333333333,,Men1524
+SRH Empowerment,Agency,Percentage of women 15-24 years old who know about a LAPM & STM,knows_ltm_stm_w_1524,Regional,0,1,0.125,0.333333333,,Women1524
+SRH Empowerment,Agency,Percentage of men 15-24 years old who know about a LAPM & STM,knows_ltm_stm_m_1524,Regional,0,1,0.125,0.333333333,,Men1524
+SRH Empowerment,Agency,Percentage of women 15-24 years old with correct knowledge of the fertile period,fert_know_w_1524,Regional,0,1,0.125,0.333333333,,Women1524
+SRH Empowerment,Agency,Percentage of men 15-24 years old with correct knowledge of the fertile period,fert_know_m_1524,Regional,0,1,0.125,0.333333333,,Men1524
+SRH Empowerment,Agency,Demand Satisfied with a Modern Method (15-24),DS_1524,Regional,0,75,0.25,0.333333333,top coding at 75%,Women1524
+SRH Empowerment,Achievement,HIV Incidence (15-24),HIV,Regional,10,0,0.333333333,0.333333333,we invert,Both1524
+SRH Empowerment,Achievement,Adolescent Birth Rate (15-19),ASFR15,Regional,200,0,0.333333333,0.333333333,we invert,Women1519
+SRH Empowerment,Achievement,Maternal Mortality Ratio ,SH_STA_MORT,Regional,1150,0,0.333333333,0.333333333,we invert,Women1549
+Gender and Autonomy,Resource,Gender Parity in Educational Attainment (ratio of M to F for youth) - Comparative Completion Rate (Upper Secondary),UpperSec_Ratio,Regional,4.5,1,1,0.333333333,"we invert, bottom coding at 1",Both1517
+Gender and Autonomy,Agency,Restricted civil liberties for women,Res_Civil,Regional,1,0,1,0.333333333,we invert,One
+Gender and Autonomy,Achievement,"Among F 20-24, % Married by 18",SP_DYN_MRBF18,Regional,80,0,0.5,0.333333333,we invert,Women2024
+Gender and Autonomy,Achievement,Women who experienced physical or sexual violence,violence_w_1524,Regional,65,0,0.5,0.333333333,we invert,Women1524
+Education,Resource,Education Spending as % GDP,Educ_GDP,Regional,0,15,0.5,0.333333333,,One
+Education,Resource,"Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 3: Sexuality Education (%)",SH_LGR_ACSRHES3,Regional,0,100,0.5,0.333333333,,One
+Education,Agency,"Total enrollment in secondary education, regardless of age, expressed as a percentage of the population who fall within the official age range for secondary education",SE.SEC.ENRR,Regional,10,100,1,0.333333333,top code at 100,Both1217
+Education,Achievement,"Total completion rate of upper secondary education as a percentage of the relevant age group, both sexes",UpperSec_Both,Regional,0,100,1,0.333333333,,Both1217
+Economic Empowerment,Resource,Physical Points of Service: Access to a mobile phone (% ages 15-34),gwp1_n_5,Regional,0,100,0.333333333,0.333333333,,Both1534
+Economic Empowerment,Resource,Physical Points of Service: Access to internet (% ages 15-34),gwp2_n_5,Regional,0,100,0.333333333,0.333333333,,Both1534
+Economic Empowerment,Resource,"Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",SL_CPA_YEMP,Regional,0,3,0.333333333,0.333333333,,One
+Economic Empowerment,Agency,Comparative Youth Account Ownership (% of youth vs adults with an account at a financial institution),Account_Ratio,Regional,0,1,1,0.333333333,top code at 1,Both1534
+Economic Empowerment,Achievement,"Youth not in education, employment or training (NEETs)",SL_TLF_NEET_Both,Regional,100,0,0.333333333,0.333333333,we invert,Both1524
+Economic Empowerment,Achievement,% of youth who feel their standard of living is better than that of their parents,BetterOff,Regional,0,1,0.333333333,0.333333333,,Both1624
+Economic Empowerment,Achievement,Working poverty rate (percentage of employed youth - 15-24 -  living below US$1.90 PPP) (%),WorkPov,Regional,100,0,0.333333333,0.333333333,we invert,Both1524
+Youth Policy and Political Participation,Resource,Existence of a national youth policy,YouthPolicy_Num,Regional,0,1,0.5,0.333333333,,One
+Youth Policy and Political Participation,Resource,Does the government collect data to monitor youth?,CollectData,Regional,0,100,0.5,0.333333333,,One
+Youth Policy and Political Participation,Agency,Vote in National Elections (% 16-24),Vote_National,Regional,0,1,0.5,0.333333333,,Both1624
+Youth Policy and Political Participation,Agency,Youth Participation in Political/Civic Organizations (% 16-24),active_member,Regional,0,0.5,0.5,0.333333333,,Both1624
+Youth Policy and Political Participation,Achievement,Youth Representation in Parliament (% of Parliamentarians <30),Parliament30,Regional,0,15,1,0.333333333,,Both1829
+Safety and Security,Resource,Inform Risk Index,INFORM,Regional,10,0,1,0.333333333,we invert,One
+Safety and Security,Agency,% of Youth who participated in political action,pol_part,Regional,0,1,0.5,0.333333333,,Both1624
+Safety and Security,Agency,% of Youth who feel there is a respect for human rights in their country,humanrights,Regional,0,1,0.5,0.333333333,,Both1624
+Safety and Security,Achievement,Youth Displaced as a % of Youth Population (country of origin),Displacement,Regional,0.5,0,0.333333333,0.333333333,we invert,Both1217
+Safety and Security,Achievement,"Youth interpersonal violence: Interpersonal violence death rate, ages 10 to 24, per 100,000 ",InterViolence,Regional,55,0,0.333333333,0.333333333,we invert,Both1024
+Safety and Security,Achievement,"Youth Suicide Mortality, ages 10 to 24",SelfHarm,Regional,45,0,0.333333333,0.333333333,we invert,Both1024
